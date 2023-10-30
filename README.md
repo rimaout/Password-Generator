@@ -1,4 +1,4 @@
-This is a simple app that Let’s you generate a random password
+This is a simple app that let’s you generate a random password.
 
 [screenshot](img/focus.png)
 
