@@ -1,5 +1,5 @@
 This is a simple app that let’s you generate a random password.
-img src="img/focus.png" width="200">
+<img src="img/focus.png" width="200">
 ![screenshot](img/focus.png)
 
 This is my first time coding an app and working with interfeces.
