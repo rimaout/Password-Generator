@@ -1,9 +1,9 @@
 This is a simple app that let’s you generate a random password.
-
-![screenshot|600](img/focus.png)
+img src="img/focus.png" width="200">
+![screenshot](img/focus.png)
 
 This is my first time coding an app and working with interfeces.
-I did this project only as an exercise to learn pyhton and interface Developing.
+I did this project only as an exercise to learn pyhton and interface developing.
 
 ## Features 
 - Simple an minimal interface
