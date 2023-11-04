@@ -1,7 +1,25 @@
-import password_generator
 import tkinter
 import customtkinter
+import random
+import string
 from tkinter import *
+
+def password_generator(upercase,special,numbers,lenght):
+
+    chars = string.ascii_lowercase
+    password = ""
+
+    if upercase == 1:
+        chars += string.ascii_uppercase
+    if special == 1:
+        chars += string.punctuation
+    if numbers == 1:
+        chars += string.digits
+    
+    for i in range(lenght):
+        password +=(random.choice(chars))
+
+    return password  
     
 def on_click():
     global lenght
