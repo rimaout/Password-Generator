@@ -8,7 +8,7 @@ I did this project only as an exercise to learn pyhton and interface developing.
 ## Features 
 - Simple an minimal interface
 - Fully written in python
-- Interfece made usinging the customtkinter python module, a simpler and more modern version of Tkinter module
+- Interfece made usinging the [customtkinter](https://github.com/TomSchimansky/CustomTkinter) module, a simpler and more modern version of [Tkinter](https://docs.python.org/3/library/tkinter.html) module
 
 ![screenshot](img/full.png)
 
