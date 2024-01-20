@@ -27,6 +27,7 @@ def on_click():
     
     var_password.set(password)
     display_label["foreground"] = "White"
+    
 def slider_event(value):
     global lenght
     lenght = int(value)
